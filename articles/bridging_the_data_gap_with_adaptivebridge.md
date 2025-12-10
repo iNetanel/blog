@@ -6,7 +6,7 @@ author: "Netanel Eliav"
 tags: ["MachineLearning", "DataQuality", "Sklearn", "AdaptiveBridge", "AIEngineering"]
 slug: "bridging-the-data-gap-with-adaptivebridge-nan-no-longer-an-issue"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/adaptivebridge.jpg"
-featured: false
+featured: true
 ---
 
 ![Bridging the Data Gap with AdaptiveBridge](https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/adaptivebridge.jpg)

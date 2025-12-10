@@ -6,7 +6,7 @@ author: "Netanel Eliav"
 tags: ["AIResearch", "CognitiveScience", "MachineLearning", "FutureOfAI", "TechInnovation"]
 slug: "evolution-of-intelligence-knowledge-wisdom-ai"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/evolution_of_intelligence_cover.gif"
-featured: false
+featured: true
 ---
 
 ## Distinguishing Knowledge, Wisdom, and AI

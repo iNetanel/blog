@@ -6,7 +6,7 @@ author: "Netanel Eliav"
 tags: ["AI", "AGI", "Neural Networks", "Machine Learning", "Artificial Intelligence"]
 slug: "the-missing-link-in-agi-amygdala-breakthrough"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/the_missing_link_in_agi.gif"
-featured: false
+featured: true
 ---
 
 ## The Missing Link in AGI: Why the Amygdala Could be Our Breakthrough Moment

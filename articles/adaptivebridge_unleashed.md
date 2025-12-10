@@ -6,7 +6,7 @@ author: "Netanel Eliav"
 tags: ["MachineLearning", "FeatureEngineering", "AdaptiveBridge", "MLOps", "DataScience"]
 slug: "adaptivebridge-unleashed-maze-of-features"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/white_wine_quality_prediction.jpg"
-featured: false
+featured: true
 ---
 
 Hold on a moment! Even though ML and Data engineers are on the same team, it’s crucial to remember that the customer (and your budget) simply doesn’t care!
