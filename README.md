@@ -1,4 +1,4 @@
-# Netanel Eliav — Blog Content Repo ✍️
+# Netanel Eliav - Blog Content Repo ✍️
 
 This repository contains the public articles and assets that power the **Articles / Blog** section on my website.
 
@@ -123,7 +123,7 @@ This repo *is* the CMS.
 
 This is a personal writing repo, so I’m not actively accepting PRs for content.
 
-If you spot a typo or error, feel free to open an issue — I’ll gladly fix it.
+If you spot a typo or error, feel free to open an issue - I’ll gladly fix it.
 
 ---
 
@@ -143,7 +143,7 @@ You may not:
 - Re-host content elsewhere
 - Use this repo as your own blog source
 
-If you want to license or reuse something commercially — contact me.
+If you want to license or reuse something commercially - contact me.
 
 ---
 
