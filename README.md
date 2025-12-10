@@ -149,7 +149,7 @@ If you want to license or reuse something commercially — contact me.
 
 ## Contact
 
-Website: https://netaneleliav.com  
+Website: https://inetanel.com  
 GitHub: https://github.com/iNetanel  
 Twitter / X / LinkedIn: (you know where to find me 😄)
 
