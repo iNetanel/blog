@@ -28,8 +28,6 @@ This isn’t merely a theoretical concern; it adversely impacts the functionalit
 
 ---
 
-![AdaptiveBridge: Feature importance diagram](https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/white_wine_quality_prediction.jpg)
-
 **AdaptiveBridge: Feature Importance and Mandatory vs Adaptive**  
 White wine quality prediction: Blue features are mandatory; the rest are nice to have. No need to burden your customers with more than Free Sulfur Dioxide and Alcohol — leverage advanced statistics or AdaptiveBridge for the rest.
 

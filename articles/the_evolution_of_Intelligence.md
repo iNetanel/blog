@@ -15,8 +15,6 @@ In our rapidly evolving technological landscape, understanding the distinctions 
 
 Consider the classic tomato analogy: knowledge informs us that a tomato is botanically a fruit, wisdom guides us not to include it in a fruit salad, and intelligence enables us to comprehend this distinction without direct experience. This simple example illuminates the complex interplay between these three cognitive dimensions and their relevance to artificial intelligence development.
 
-![Alt text](https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/evolution_of_intelligence_cover.gif)
-
 ## The DIKW Framework: A Scientific Perspective
 
 The Data-Information-Knowledge-Wisdom (DIKW) hierarchy provides a systematic framework for understanding how both human and artificial intelligence systems process information. Recent research in cognitive science and AI development has revealed the intricate relationships between these elements:

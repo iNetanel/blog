@@ -13,8 +13,6 @@ featured: true
 
 In our relentless pursuit of artificial general intelligence (AGI), we’ve been looking in the wrong place. Whilst the AI community races to build ever-larger language models and more complex neural networks, we might be missing the fundamental key to consciousness itself: the emotional core that drives all intelligent life. The known ‘amygdala’, far from being just another brain structure, could be the missing piece that transforms our pattern-matching machines into truly conscious entities.
 
-![The Missing Link in AGI](https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/the_missing_link_in_agi.gif)
-
 ---
 
 ## The Evolution’s Secret to Intelligence
