@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Intelligence: Distinguishing Knowledge, Wisdom, and Intelligence in the AI Era"
 description: "A clear look at the DIKW hierarchy and the practical differences between knowledge, intelligence, and wisdom—plus what those gaps mean for today's AI and the road to AGI."
-date: "13/01/2015"
+date: "13/01/2025"
 author: "Netanel Eliav"
 tags: ["AIResearch", "CognitiveScience", "MachineLearning", "FutureOfAI", "TechInnovation"]
 slug: "evolution-of-intelligence-knowledge-wisdom-ai"
