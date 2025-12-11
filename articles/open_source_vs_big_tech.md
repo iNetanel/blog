@@ -127,7 +127,3 @@ So what do you think?
 
 Is AI destined to reshape everything?  
 Or will it become just another essential layer in the tech stack?
-
-Drop your thoughts in the comments — I’m genuinely curious to hear your perspective.
-
----
