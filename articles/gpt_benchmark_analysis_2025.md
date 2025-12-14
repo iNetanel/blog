@@ -47,6 +47,10 @@ Here’s what the data actually shows, stripped of marketing polish:
 
 Sam Altman spent 2025 claiming AGI was imminent, predicting AI agents would "join the workforce" and match human intelligence. The benchmark data proves otherwise.
 
+**Clarification: ARC-AGI-2 and the Path to AGI**
+[is the ARC-AGI?](https://arcprize.org/arc-agi/2/)
+It’s important to remember that ARC-AGI-2 is not a benchmark for real AGI. Instead, it’s a critical first milestone—a threshold we need to cross before even beginning to talk about true general intelligence. The benchmark is designed to stress-test abstract reasoning and problem-solving, providing a clear signal of progress toward AGI. For now, models that score above 50% on ARC-AGI-2 are showing promise, but this is only the starting point, not the finish line
+
 **ARC-AGI-2 tells the real story**: GPT-5.2 peaks at 54.2%-barely above chance on tests designed to resist memorization. This isn’t a rounding error... it’s a chasm. When models can’t break 55% on abstract reasoning tasks that humans solve intuitively, calling this AGI is either delusional or dishonest.
 
 The gap becomes clearer in production:
@@ -111,9 +115,31 @@ For London AI leaders, the strategy is clear: deploy these tools aggressively fo
 
 Sam Altman can claim what he wants. The benchmarks speak louder than press releases.
 
-***
+---
 
 **Related Resources:**  
 - [OpenAI's GPT-5.2 Technical Overview](https://openai.com/index/introducing-gpt-5-2/)  
 - [ARC-AGI Benchmark Results](https://www.rdworldonline.com/how-gpt-5-2-stacks-up-against-gemini-3-0-and-claude-opus-4-5/)  
 - [UK AI Safety Institute Guidelines](https://www.aisi.gov.uk)
+
+---
+
+## FAQ: Common Misconceptions
+
+**Q: Can multi-agent systems ever become AGI?**  
+A: Not without unified reasoning and adaptability. Coordination alone isn’t enough.
+
+**Q: Why do AGI benchmarks matter?**  
+A: They test for generalization and autonomy—core traits of AGI.
+
+**Q: Isn’t more teamwork always better?**  
+A: Not if it leads to complexity and miscommunication. AGI needs unity, not just collaboration.
+
+**Q: What is the role of AI architecture in AGI development?**  
+A: Architecture determines whether a system can generalize and adapt, or just specialize.
+
+**Q: How do today’s AI systems differ from AGI?**  
+A: Most current systems excel at narrow tasks; AGI aims for broad, adaptable intelligence.
+
+**Q: What are the biggest deployment challenges for AI in the UK?**  
+A: Integration, scalability, and maintaining unified reasoning across diverse tasks.
