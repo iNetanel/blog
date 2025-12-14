@@ -124,7 +124,7 @@ Sam Altman can claim what he wants. The benchmarks speak louder than press relea
 
 ---
 
-## FAQ: Common Misconceptions
+## FAQ: Common GPT Misconceptions
 
 **Q: Can multi-agent systems ever become AGI?**  
 A: Not without unified reasoning and adaptability. Coordination alone isn’t enough.
@@ -143,3 +143,9 @@ A: Most current systems excel at narrow tasks; AGI aims for broad, adaptable int
 
 **Q: What are the biggest deployment challenges for AI in the UK?**  
 A: Integration, scalability, and maintaining unified reasoning across diverse tasks.
+
+**Q: How do hallucinations affect real-world AI deployments?**  
+A: Hallucinations, where AI generates false or misleading information—can lead to serious errors in production, especially in regulated sectors like finance and healthcare. Human oversight is critical to catch and correct these mistakes before they cause harm.
+
+**Q: What are the benefits and risks of hybrid human-AI systems?**
+A: Hybrid systems leverage AI for efficiency on routine tasks while relying on human judgment for complex, ambiguous, or high-stakes decisions. The main risk is over-reliance on AI, which can result in missed errors or regulatory violations if not properly managed.
