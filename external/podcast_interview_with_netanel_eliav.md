@@ -8,6 +8,7 @@ tags:
   - AI
   - Entrepreneurship
 featured: false
+series: "Interviews"
 featured_image: "https://tbcy.in/wp-content/uploads/2022/08/Netanel-Eliav-Innovator-Director-Top-AI-and-Data-Leader-and-Founder-of-SightBit.jpg"
 outlet: "The Brand Called You – YouTube"
 url: "https://www.youtube.com/watch?v=a3ZlCef71Gw&feature=youtu.be"
