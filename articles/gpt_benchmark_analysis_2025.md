@@ -6,7 +6,7 @@ author: "Netanel Eliav"
 series: "AGI"
 tags: ["AI", "AGI", "GPT-5", "Benchmarks", "OpenAI", "London"]
 slug: "gpt-benchmark-analysis-2025-hard-reality-london"
-featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/evolution_of_intelligence_cover.gif"
+featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/gpt.gif"
 featured: true
 ---
 
