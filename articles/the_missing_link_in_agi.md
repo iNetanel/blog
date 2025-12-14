@@ -3,7 +3,7 @@ title: "The Missing Link in AGI: Why the Amygdala Could be Our Breakthrough Mome
 description: "A case for building AGI around an emotional core inspired by the amygdala—unlocking motivation, adaptive learning, and machine consciousness beyond pattern matching."
 date: "27/01/2025"
 author: "Netanel Eliav"
-serias: "AGI"
+series: "AGI"
 tags: ["AI", "AGI", "Neural Networks", "Machine Learning", "Artificial Intelligence"]
 slug: "the-missing-link-in-agi-amygdala-breakthrough"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/the_missing_link_in_agi.gif"
