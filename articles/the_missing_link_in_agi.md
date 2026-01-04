@@ -46,8 +46,7 @@ The structure’s role in processing facial expressions and social cues highligh
 
 ### Performance Indicators for Next-Generation AGI
 
-![Performance Indicators diagram](https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/
-.jpg)
+![Performance Indicators diagram](https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/performance_indicators.jpg)
 
 ---
 

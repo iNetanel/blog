@@ -49,7 +49,7 @@ Sam Altman spent 2025 claiming AGI was imminent, predicting AI agents would "joi
 
 **Clarification: ARC-AGI-2 and the Path to AGI**
 [is the ARC-AGI?](https://arcprize.org/arc-agi/2/)
-It’s important to remember that ARC-AGI-2 is not a benchmark for real AGI. Instead, it’s a critical first milestone—a threshold we need to cross before even beginning to talk about true general intelligence. The benchmark is designed to stress-test abstract reasoning and problem-solving, providing a clear signal of progress toward AGI. For now, models that score above 50% on ARC-AGI-2 are showing promise, but this is only the starting point, not the finish line
+It’s important to remember that ARC-AGI-2 is not a benchmark for real AGI. Instead, it’s a critical first milestone-a threshold we need to cross before even beginning to talk about true general intelligence. The benchmark is designed to stress-test abstract reasoning and problem-solving, providing a clear signal of progress toward AGI. For now, models that score above 50% on ARC-AGI-2 are showing promise, but this is only the starting point, not the finish line
 
 **ARC-AGI-2 tells the real story**: GPT-5.2 peaks at 54.2%-barely above chance on tests designed to resist memorization. This isn’t a rounding error... it’s a chasm. When models can’t break 55% on abstract reasoning tasks that humans solve intuitively, calling this AGI is either delusional or dishonest.
 
@@ -130,7 +130,7 @@ Sam Altman can claim what he wants. The benchmarks speak louder than press relea
 A: Not without unified reasoning and adaptability. Coordination alone isn’t enough.
 
 **Q: Why do AGI benchmarks matter?**  
-A: They test for generalization and autonomy—core traits of AGI.
+A: They test for generalization and autonomy-core traits of AGI.
 
 **Q: Isn’t more teamwork always better?**  
 A: Not if it leads to complexity and miscommunication. AGI needs unity, not just collaboration.
@@ -145,7 +145,7 @@ A: Most current systems excel at narrow tasks; AGI aims for broad, adaptable int
 A: Integration, scalability, and maintaining unified reasoning across diverse tasks.
 
 **Q: How do hallucinations affect real-world AI deployments?**  
-A: Hallucinations, where AI generates false or misleading information—can lead to serious errors in production, especially in regulated sectors like finance and healthcare. Human oversight is critical to catch and correct these mistakes before they cause harm.
+A: Hallucinations, where AI generates false or misleading information-can lead to serious errors in production, especially in regulated sectors like finance and healthcare. Human oversight is critical to catch and correct these mistakes before they cause harm.
 
 **Q: What are the benefits and risks of hybrid human-AI systems?**
 A: Hybrid systems leverage AI for efficiency on routine tasks while relying on human judgment for complex, ambiguous, or high-stakes decisions. The main risk is over-reliance on AI, which can result in missed errors or regulatory violations if not properly managed.
