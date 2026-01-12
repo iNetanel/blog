@@ -7,6 +7,14 @@ tags: ["MachineLearning", "FeatureEngineering", "AdaptiveBridge", "MLOps", "Data
 slug: "adaptivebridge-unleashed-maze-of-features"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/white_wine_quality_prediction.jpg"
 featured: true
+
+faqs:
+  - q: "Why do big feature sets increase production cost?"
+    a: "More features usually means more data collection, storage, pipeline complexity, and heavier inference workloads (CPU/RAM), which directly increases infra and operational costs."
+  - q: "Does reducing features always hurt accuracy?"
+    a: "Not necessarily. Many features add marginal value; focusing on the most predictive features can keep accuracy high while simplifying data requirements."
+  - q: "What problem does AdaptiveBridge solve?"
+    a: "It helps models stay robust when some features are missing at inference time by adaptively handling missing inputs instead of failing or requiring full feature availability."
 ---
 
 Hold on a moment! Even though ML and Data engineers are on the same team, it’s crucial to remember that the customer (and your budget) simply doesn’t care!

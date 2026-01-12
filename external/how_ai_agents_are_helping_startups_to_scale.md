@@ -9,7 +9,7 @@ tags:
   - Scaling
 featured: false
 series: "Forbes"
-featured_image: "https://imageio.forbes.com/specials-images/imageserve/67d6c90e88a096ada942812e/Human-interact-with-AI-artificial-intelligence-virtual-assistant-chatbot-in-concept/0x0.jpg"
+featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/0x0.jpg"
 outlet: "Forbes"
 url: "https://www.forbes.com/sites/alisoncoleman/2025/03/16/how-ai-agents-are-helping-startups-to-scale/"
 ---
