@@ -1,7 +1,7 @@
 ---
 title: "Podcast Interview with Netanel Eliav"
 description: "An in-depth podcast discussing Netanel Eliav's journey from cybersecurity to founding SightBit, and trends in AI, ML, and entrepreneurship."
-date: "Aug 2022"
+date: "01/08/2022"
 author: "Netanel Eliav"
 tags:
   - Podcast

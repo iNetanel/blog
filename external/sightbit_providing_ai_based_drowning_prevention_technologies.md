@@ -1,7 +1,7 @@
 ---
 title: "SightBit: Providing AI-Based Drowning Prevention Technologies"
 description: "Showcasing SightBit's mission to prevent drowning accidents using AI, vision systems, and real-time alerts, led by Netanel Eliav."
-date: "2021"
+date: "01/10/2021"
 author: "Netanel Eliav"
 tags:
   - Computer Vision

@@ -1,7 +1,7 @@
 ---
 title: "How AI Agents Are Helping Startups to Scale"
 description: "Features how AI agents are transforming startup scalability, highlighting Jam 7's innovations under Netanel Eliav's CTO leadership."
-date: "16 Mar 2025"
+date: "13/03/2025"
 author: "Netanel Eliav"
 tags:
   - AI Agents

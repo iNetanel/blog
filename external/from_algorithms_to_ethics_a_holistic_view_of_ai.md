@@ -1,7 +1,7 @@
 ---
 title: "From Algorithms to Ethics: A Holistic View of AI"
 description: "A collective work where 60 global AI leaders, including Netanel Eliav, explore AI's impact on business, society, ethics, and innovation."
-date: "May 2022"
+date: "01/15/2022"
 author: "Netanel Eliav"
 tags:
   - AI
