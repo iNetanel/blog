@@ -203,10 +203,6 @@ class AgentOrchestrator:
         self.error_log = []
     
     def execute_task(self, task):
-        """
-        Execute task with retries and validation.
-        Returns result or escalates to human review.
-        """
         for attempt in range(self.max_retries):
             try:
                 result = self._call_llm(task, timeout=self.timeout)
@@ -219,13 +215,9 @@ class AgentOrchestrator:
             except Exception as e:
                 self._log_error("exception", task, str(e))
         
-        # Fallback: return safe default or escalate to human
         return self._safe_fallback(task)
     
     def _validate_result(self, result):
-        """
-        Check for hallucinations, format errors, and unsafe content.
-        """
         if not result or len(result) < 10:
             return False
         if "I don't know" in result or "I cannot" in result:
@@ -233,9 +225,6 @@ class AgentOrchestrator:
         return True
     
     def _log_error(self, error_type, task, details):
-        """
-        Log errors for monitoring and incident response.
-        """
         self.error_log.append({
             "type": error_type,
             "task": task,
@@ -244,9 +233,6 @@ class AgentOrchestrator:
         })
     
     def _safe_fallback(self, task):
-        """
-        Return a safe default or escalate to human review.
-        """
         return {"status": "escalated", "task": task}
 ```
 
