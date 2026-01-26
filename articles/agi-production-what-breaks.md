@@ -4,7 +4,7 @@ description: "London-based AI systems builder debunks AGI hype with production d
 date: "26/01/2026"
 author: "Netanel Eliav"
 tags: ["AGI", "production AI", "agentic systems", "AI hype", "London", "technical reality", "AI benchmarks", "LLM cost optimization"]
-slug: "agi-production-what-breaks-in-production"
+slug: "agi-production-what-breaks"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/agi_hype_vs_reality.png"
 featured: true
 faqs:
