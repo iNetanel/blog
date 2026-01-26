@@ -5,7 +5,7 @@ date: "26/01/2026"
 author: "Netanel Eliav"
 tags: ["AGI", "production AI", "agentic systems", "AI hype", "London", "technical reality", "AI benchmarks", "LLM cost optimization"]
 slug: "agi-production-what-breaks-in-production"
-featured_image: "agi_hype_vs_reality_1.png"
+featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/agi_hype_vs_reality_1.png"
 featured: true
 faqs:
   - q: "How much does it cost to run AGI-level benchmarks?"
