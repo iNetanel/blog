@@ -3,6 +3,7 @@ title: "AGI is Everywhere in Headlines. Here's What Actually Breaks in Productio
 description: "London-based AI systems builder debunks AGI hype with production data, cost breakdowns, and technical failures, what works, what breaks, and why."
 date: "26/01/2026"
 author: "Netanel Eliav"
+series: "AGI"
 tags: ["AGI", "production AI", "agentic systems", "AI hype", "London", "technical reality", "AI benchmarks", "LLM cost optimization"]
 slug: "agi-production-what-breaks"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/agi_hype_vs_reality.png"
