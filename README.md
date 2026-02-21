@@ -31,6 +31,9 @@ blog/
       part-1.md
       part-2.md
 
+  external/
+    some-interview.md      # curated external/guest articles (is_external: true)
+
   assets/
     images/
       some-image.png
@@ -40,9 +43,14 @@ blog/
 ```
 
 ### `articles/`
-- Every `.md` file here is a published article.
+- Every `.md` file here is a published article owned by Netanel.
 - Subfolders inside `articles/` represent **series**.
-- Files in a series are ordered alphabetically by filename unless explicitly set otherwise.
+- Files in a series are ordered by the `order` frontmatter field; filesystem order is used as a fallback.
+
+### `external/`
+- Markdown stubs for curated external or guest articles (interviews, guest posts, etc.).
+- Must include `is_external: true` in frontmatter, plus `outlet` and `url` fields.
+- These are fetched and displayed alongside owned articles but flagged differently in the UI.
 
 ### `assets/`
 - Any images/diagrams referenced by articles live here.
@@ -83,24 +91,30 @@ Your markdown content starts here...
 | `title`         | string    | Required |
 | `description`   | string    | Short SEO summary |
 | `date`          | string    | Use ISO format `YYYY-MM-DD` |
-| `author`        | string    | Defaults to me if missing |
+| `author`        | string    | Defaults to "Netanel Eliav" if missing |
 | `tags`          | string[]  | Optional |
-| `featured`      | boolean   | Optional |
+| `featured`      | boolean   | Optional — surfaces article prominently |
 | `featured_image`| string    | Full URL to image (recommended) |
-| `series`        | string    | Auto-detected from folder |
-| `order`         | number    | Auto-assigned by backend |
+| `series`        | string    | Auto-detected from subfolder name; can be overridden |
+| `order`         | number    | Controls ordering within a series |
+| `is_external`   | boolean   | Set `true` for external/guest articles (in `external/`) |
+| `outlet`        | string    | Publication name — required when `is_external: true` |
+| `url`           | string    | Original article URL — required when `is_external: true` |
 
 ---
 
 ## How production works
 
 My website backend:
-1. Reads this repo via GitHub API
-2. Scans `/articles`
-3. Builds a metadata cache
+1. Reads this repo via GitHub raw content API
+2. Scans both `/articles` (owned posts) and `/external` (curated external articles)
+3. Builds an in-memory metadata cache (refreshed every 60 seconds)
 4. Serves:
-   - `/api/articles/list`
-   - `/api/articles/{slug}`
+   - `/api/articles/list` — full metadata list
+   - `/api/articles/{slug}` — rendered article detail (Markdown → sanitized HTML)
+   - `/api/articles/series/{name}` — articles belonging to a series
+
+In development, articles are read from local `./articles/` and `./external/` directories instead (no GitHub API calls, always-fresh cache).
 
 No DB needed, no CMS needed.  
 This repo *is* the CMS.
