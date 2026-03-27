@@ -3,7 +3,7 @@ title: "Documentation is Code Now: Machine-First Knowledge Architecture"
 description: "How engineering teams are rewriting docs for AI agents first, humans second—and what breaks when they don't. From a regulated dev system that proved it."
 date: "27/03/2026"
 author: "Netanel Eliav"
-series: "Production AI"
+series: "CTO"
 tags: ["knowledge management", "documentation", "AI agents", "engineering", "DevOps", "agentic systems", "London"]
 slug: "documentation-is-code-machine-first-knowledge-architecture"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/i_love_docs.jpeg"
