@@ -180,3 +180,9 @@ Moreover, the benchmark data highlights the versatility of AdaptiveBridge in han
 ## Conclusion: The Future of Data Analytics
 
 AdaptiveBridge ushers in a new era of data-driven decision-making. It’s a future where missing features no longer hold back predictions, and data becomes a powerful asset that drives meaningful decisions. Organizations in every industry stand to benefit from the predictive power of AdaptiveBridge.
+
+**About the Author**
+
+Netanel Eliav builds production AI systems — agentic workflows, RAG pipelines, LLM infrastructure, and evaluation frameworks. He advises engineering teams on agentic architecture and runs projects including Data, Analytics and AI related domains. London-based, global AI leader.
+
+[LinkedIn](https://linkedin.com/in/inetanel) · [GitHub](https://github.com/inetanel) · [inetanel.com](https://inetanel.com)

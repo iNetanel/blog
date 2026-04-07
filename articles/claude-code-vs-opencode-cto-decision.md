@@ -448,6 +448,6 @@ The answer to "which tool should I use" is almost always "both, with routing log
 
 **About the Author**
 
-Netanel Eliav builds production AI systems, agentic workflows, RAG pipelines, and LLM infrastructure. CTO at Jam 7, where he leads AMP (agentic marketing platform). Founder of MazeByte (autonomous ETL for agentic systems) and MHIL Institute (AI evaluation frameworks). London-based, global work.
+Netanel Eliav builds production AI systems — agentic workflows, RAG pipelines, LLM infrastructure, and evaluation frameworks. He advises engineering teams on agentic architecture and runs projects including Data, Analytics and AI related domains. London-based, global AI leader.
 
-[LinkedIn](https://linkedin.com/in/netanel-eliav) · [GitHub](https://github.com/netanel-eliav) · [inetanel.com](https://inetanel.com)
+[LinkedIn](https://linkedin.com/in/inetanel) · [GitHub](https://github.com/inetanel) · [inetanel.com](https://inetanel.com)
