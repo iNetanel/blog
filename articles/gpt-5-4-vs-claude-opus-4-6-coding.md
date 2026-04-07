@@ -28,7 +28,7 @@ faqs:
   - q: "Which coding benchmarks actually matter for comparing GPT-5.4 and Claude Opus 4.6?"
     a: "The benchmarks that matter most, in order: Terminal-Bench 2.0 (tests real terminal workflows — git, build systems, CLI debugging — where GPT-5.4 leads by 9.7 points); BrowseComp (directly comparable agentic search — Opus leads by 1.3 points); OSWorld (computer use — both exceed human baseline, GPT-5.4 slightly ahead); ARC-AGI-2 (novel reasoning — GPT-5.4 leads 73.3% vs 68.8%); MCP Atlas (multi-tool orchestration — GPT-5.4 leads 67.2% vs 59.5%). The benchmark to be careful about: SWE-Bench Verified (80.8% Opus) vs SWE-Bench Pro (57.7% GPT) are different variants — not a valid direct comparison. Humanity's Last Exam and GPQA Diamond are effectively tied — don't use them to differentiate."
 
-  - q: "How should a CTO choose between GPT-5.4 and Claude Opus 4.6 for their engineering team?"
+  - q: "How should a technical lead choose between GPT-5.4 and Claude Opus 4.6 for their engineering team?"
     a: "Route by task type, not by model preference. Use GPT-5.4 for: terminal-heavy operations (git, CI/CD, build systems), rapid prototyping with well-specified tasks, desktop and browser automation, visual or multimodal input, high-throughput cost-sensitive workloads, and teams already embedded in GitHub Copilot or Cursor. Use Opus 4.6 for: multi-file architectural refactoring, context past 272K tokens (flat pricing wins and quality is better), ambiguous specs where intent must be inferred, multi-agent orchestration via Agent Teams, and architectural code review. For most production teams, the hybrid approach — GPT-5.4 for execution, Opus for review — delivers the best quality-to-cost ratio at roughly $80-95/day at 10K tasks per day versus $125/day for pure Opus."
 ---
 
@@ -247,7 +247,7 @@ def coding_agent(task: str) -> CodeOutput:
 
 The one thing to avoid: choosing a model based on the benchmark headline. Six frontier models now score within 1.3 points of each other on SWE-Bench Verified. The real variable is your workflow, your cost structure, and where each model's failure modes land in your specific pipeline.
 
-The CTO question is not "which model is better." It's "which model fails in a way I can recover from, at my cost structure."
+The technical lead question is not "which model is better." It's "which model fails in a way I can recover from, at my cost structure."
 
 ---
 
