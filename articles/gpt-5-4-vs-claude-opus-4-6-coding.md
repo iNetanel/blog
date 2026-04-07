@@ -40,7 +40,7 @@ The real picture is messier and more useful. Both models have genuine strengths,
 
 This is the version that gets it right. Benchmark data from the official release reports, pricing cross-referenced against Portkey's independent analysis, and failure modes from building production agentic systems — not from reading the launch post.
 
-**What a CTO gets from this:** a specific routing decision for every major coding task type, the accurate cost math at production throughput, and the two failure modes of each model that will actually hit you in production.
+**What a technical lead gets from this:** a specific routing decision for every major coding task type, the accurate cost math at production throughput, and the two failure modes of each model that will actually hit you in production.
 
 ---
 
