@@ -6,7 +6,6 @@ author: "Netanel Eliav"
 tags: ["AI", "Investment", "Nvidia", "OpenAI", "MLOps", "ProductionAI", "AIInfrastructure"]
 slug: "the-ai-money-loop-nvidia-openai-big-tech"
 featured_image: "https://raw.githubusercontent.com/iNetanel/blog/main/assets/images/openai-big-tech.jpg"
-
 featured: true
 
 faqs:
