@@ -1,7 +1,7 @@
 ---
 title: "The Architect: Why I Built an Autonomous Dev Layer on Top of AI Coding CLIs"
 description: "A full breakdown of why bare AI coding CLIs break at scale, and every mechanism inside The Architect that fixes it, from circuit breaker to persistent project memory."
-date: "30/04/2026"
+date: "01/05/2026"
 author: "Netanel Eliav"
 series: "Production AI"
 tags: ["Agentic Systems", "Autonomous Development", "Claude Code", "OpenCode", "Codex", "Local LLM", "Open source"]
